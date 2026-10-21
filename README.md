@@ -58,7 +58,8 @@ O cenário e as interações são renderizados com Three.js. O robô utiliza o m
 
 <div align="center">
 
-**Projeto de Naiara Santos**  
+**Projeto de Inaiara Santos**  
+**Instrutor de Formação Profissional**  
 Tecnologia com propósito • Educação pela prática
 
 ### Sua próxima conquista começa com uma tentativa.
